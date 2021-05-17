@@ -1,0 +1,23 @@
+
+ footer {
+  color: pink;
+background-color: darkgrey;
+}
+
+h1, h2 {
+  color: black;
+  background-color: pink;
+}
+
+
+p {
+  background-color: pink;
+}
+
+html {
+  background-color: lightblue;
+}
+
+/* NOTE: This is external styling. This allows for large amounts of style rules to be carried out across all html pages
+simulaneously. This keeps your html neat, as you're not having to set multiple style rules all over the code. This also means
+you can keep continuity with your style across your entire website, */
